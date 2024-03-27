@@ -4,3 +4,6 @@
 [submodule "backend/lib/openzeppelin-contracts"]
 	path = backend/lib/openzeppelin-contracts
 	url = https://github.com/openzeppelin/openzeppelin-contracts
+[submodule "backend/lib/switchboard-contracts"]
+	path = backend/lib/switchboard-contracts
+	url = https://github.com/switchboard-xyz/switchboard-contracts
